@@ -6,9 +6,9 @@
 
 A análise detalhada desses dados permite identificar quais canais estão trazendo mais retorno, quais períodos são mais propícios para investimentos e quais campanhas precisam de ajustes. Com isso, podemos otimizar o uso dos recursos e garantir o sucesso das campanhas de publicidade.
 
-[![](https://img.shields.io/badge/Google%20Sheets-white?logo=google-sheets)](#) [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_WGoZxevgYrZlmHCsh5_7-5N9UWRSVkQLIhZAfJyHp5XpWDuO0oz1h02NzPnYzyPVlTW6rOK6Rw8J/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="305" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_WGoZxevgYrZlmHCsh5_7-5N9UWRSVkQLIhZAfJyHp5XpWDuO0oz1h02NzPnYzyPVlTW6rOK6Rw8J/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[![](https://img.shields.io/badge/Google%20Sheets-white?logo=google-sheets)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)](#) 
 
 ---
 
