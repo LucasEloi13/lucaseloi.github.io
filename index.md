@@ -1,14 +1,14 @@
-## Selected projects in data science, machine learning and NLP
+## Projetos selecionados em Análise de Dados e Web Analytics 
 
 ---
 
-### Deep NLP for hate speech detection
+### Análise de Desempenho de Campanhas Publicitárias
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+A análise detalhada desses dados permite identificar quais canais estão trazendo mais retorno, quais períodos são mais propícios para investimentos e quais campanhas precisam de ajustes. Com isso, podemos otimizar o uso dos recursos e garantir o sucesso das campanhas de publicidade.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](#) [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) 
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_WGoZxevgYrZlmHCsh5_7-5N9UWRSVkQLIhZAfJyHp5XpWDuO0oz1h02NzPnYzyPVlTW6rOK6Rw8J/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
 
