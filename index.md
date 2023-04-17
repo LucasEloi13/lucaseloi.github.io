@@ -11,7 +11,7 @@ Nesta análise, foram avaliados os dados do Airbnb em Boston para identificar os
 [![](https://img.shields.io/badge/Google%20Sheets-white?logo=google-sheets)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)](#) 
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
 
-[Veja a análise completa](https://docs.google.com/presentation/d/e/2PACX-1vTRFtbJjAhpMq7kFpsLblKQxxkTkOXLcHgsfsEILUH4R53vSzPh7YDDHxU8RVX8dVKsVSMHFZkzU3Si/pub?start=false&loop=false&delayms=3000&slide=id.g5540b6adc3_2_910)
+[View code on Colab](https://docs.google.com/presentation/d/e/2PACX-1vTRFtbJjAhpMq7kFpsLblKQxxkTkOXLcHgsfsEILUH4R53vSzPh7YDDHxU8RVX8dVKsVSMHFZkzU3Si/pub?start=false&loop=false&delayms=3000&slide=id.g4dfce81f19_0_45)
 ---
 
 
