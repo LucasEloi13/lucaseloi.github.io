@@ -4,14 +4,18 @@
 
 ### Análise de Desempenho de Campanhas Publicitárias
 
-A análise detalhada desses dados permite identificar quais canais estão trazendo mais retorno, quais períodos são mais propícios para investimentos e quais campanhas precisam de ajustes. Com isso, podemos otimizar o uso dos recursos e garantir o sucesso das campanhas de publicidade.
+Nesta análise, foram avaliados os dados do Airbnb em Boston para identificar os bairros com melhor retorno sobre o investimento em aluguel de imóveis. Foram utilizados diversos indicadores, incluindo taxa de ocupação, preço médio por noite e custo médio de aquisição do imóvel. Com base nessas informações, foi possível recomendar os bairros mais promissores para investimentos imobiliários no Airbnb em Boston.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_WGoZxevgYrZlmHCsh5_7-5N9UWRSVkQLIhZAfJyHp5XpWDuO0oz1h02NzPnYzyPVlTW6rOK6Rw8J/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="305" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<img src="images/Boston_Airbnb_Analysis.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Google%20Sheets-white?logo=google-sheets)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)](#) 
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
 
+[Veja a análise completa](https://docs.google.com/presentation/d/e/2PACX-1vTRFtbJjAhpMq7kFpsLblKQxxkTkOXLcHgsfsEILUH4R53vSzPh7YDDHxU8RVX8dVKsVSMHFZkzU3Si/pub?start=false&loop=false&delayms=3000&slide=id.g5540b6adc3_2_910)
 ---
 
+
+<!--*********************APAGAR AQ
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
@@ -67,9 +71,9 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 ### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
 In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
-
+*********************APAGAR AQ-->
 <!-- <img src="images/random_intercept.png?raw=true"/> -->
-
+<!-- *********************APAGAR AQ
 [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 View code on Github
@@ -82,7 +86,7 @@ A selection of smaller projects demonstrating specific data science and ML skill
 - [Working in the cloud: Using data stored in AWS S3 buckets](#)
 - [Optimising code with multiprocessing](#)
 
-
+*********************APAGAR AQ-->
 
 
 
