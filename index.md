@@ -2,16 +2,17 @@
 
 ---
 
-### Análise de Desempenho de Campanhas Publicitárias
+### Análise de Investimentos para Airbnb 
 
 Nesta análise, foram avaliados os dados do Airbnb em Boston para identificar os bairros com melhor retorno sobre o investimento em aluguel de imóveis. Foram utilizados diversos indicadores, incluindo taxa de ocupação, preço médio por noite e custo médio de aquisição do imóvel. Com base nessas informações, foi possível recomendar os bairros mais promissores para investimentos imobiliários no Airbnb em Boston.
 
-<img src="images/airbnb.png?raw=true"/>
+<!-- <img src="images/airbnb.png?raw=true"/> -->
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcol3Vvvx1rIh3rxy903Ml3uTYiSejtYmzE08eJd8Oz45RJZLs3yIfZpgxS_jQAB1zAWHqiMiMhTfa/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="306" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [![](https://img.shields.io/badge/Google%20Sheets-white?logo=google-sheets)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)](#) 
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
 
-[Ver análise completa](https://docs.google.com/presentation/d/e/2PACX-1vTRFtbJjAhpMq7kFpsLblKQxxkTkOXLcHgsfsEILUH4R53vSzPh7YDDHxU8RVX8dVKsVSMHFZkzU3Si/pub?start=false&loop=false&delayms=3000&slide=id.g4dfce81f19_0_45)
+[Ver análise em tela cheia](https://docs.google.com/presentation/d/e/2PACX-1vTRFtbJjAhpMq7kFpsLblKQxxkTkOXLcHgsfsEILUH4R53vSzPh7YDDHxU8RVX8dVKsVSMHFZkzU3Si/pub?start=false&loop=false&delayms=3000&slide=id.g4dfce81f19_0_45)
 
 ---
 
@@ -19,11 +20,12 @@ Nesta análise, foram avaliados os dados do Airbnb em Boston para identificar os
 
 Este dashboard de vendas permite visualizar insights valiosos sobre a jornada do cliente, com dados segmentados por regiões, categorias e subcategorias. Com uma interface intuitiva e gráficos interativos, é possível analisar tendências de vendas e desempenho em tempo real. Com isso, é possível identificar oportunidades de crescimento e tomar decisões estratégicas mais assertivas.
 
-<img src="images/dashvendas.png?raw=true"/>
+<!-- <img src="images/dashvendas.png?raw=true"/> -->
+<iframe width="408" height="306" src="https://lookerstudio.google.com/embed/reporting/42b6179e-7ae0-4c43-8193-788726f7534f/page/tUvED" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 [![](https://img.shields.io/badge/Google%20Analytics-white?logo=google%20analytics)](#) [![](https://img.shields.io/badge/Looker-white?logo=Looker)](#) 
 
-[Ver análise completa](https://lookerstudio.google.com/reporting/42b6179e-7ae0-4c43-8193-788726f7534f)
+[Ver dashboard em tela cheia](https://lookerstudio.google.com/reporting/42b6179e-7ae0-4c43-8193-788726f7534f)
 
 
 
