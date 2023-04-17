@@ -6,7 +6,7 @@
 
 Nesta análise, foram avaliados os dados do Airbnb em Boston para identificar os bairros com melhor retorno sobre o investimento em aluguel de imóveis. Foram utilizados diversos indicadores, incluindo taxa de ocupação, preço médio por noite e custo médio de aquisição do imóvel. Com base nessas informações, foi possível recomendar os bairros mais promissores para investimentos imobiliários no Airbnb em Boston.
 
-<img src="images/airbnb.jpg?raw=true"/>
+<img src="images/airbnb.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Google%20Sheets-white?logo=google-sheets)](#) [![](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)](#) 
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
