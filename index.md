@@ -12,7 +12,20 @@ Nesta análise, foram avaliados os dados do Airbnb em Boston para identificar os
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#) 
 
 [View code on Colab](https://docs.google.com/presentation/d/e/2PACX-1vTRFtbJjAhpMq7kFpsLblKQxxkTkOXLcHgsfsEILUH4R53vSzPh7YDDHxU8RVX8dVKsVSMHFZkzU3Si/pub?start=false&loop=false&delayms=3000&slide=id.g4dfce81f19_0_45)
+
 ---
+
+### Dashboard de Desempenho de Vendas
+
+Este dashboard de vendas permite visualizar insights valiosos sobre a jornada do cliente, com dados segmentados por regiões, categorias e subcategorias. Com uma interface intuitiva e gráficos interativos, é possível analisar tendências de vendas e desempenho em tempo real. Com isso, é possível identificar oportunidades de crescimento e tomar decisões estratégicas mais assertivas.
+
+<img src="images/dashvendas.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Google%20Analytics-white?logo=google%20analytics)](#) [![](https://img.shields.io/badge/Looker-white?logo=Looker)](#) 
+
+
+[Ver análise completa](https://docs.google.com/presentation/d/e/2PACX-1vTRFtbJjAhpMq7kFpsLblKQxxkTkOXLcHgsfsEILUH4R53vSzPh7YDDHxU8RVX8dVKsVSMHFZkzU3Si/pub?start=false&loop=false&delayms=3000&slide=id.g4dfce81f19_0_45)
+
 
 
 <!--*********************APAGAR AQ
