@@ -21,7 +21,7 @@ Nesta análise, foram avaliados os dados do Airbnb em Boston para identificar os
 Este dashboard de vendas permite visualizar insights valiosos sobre a jornada do cliente, com dados segmentados por regiões, categorias e subcategorias. Com uma interface intuitiva e gráficos interativos, é possível analisar tendências de vendas e desempenho em tempo real. Com isso, é possível identificar oportunidades de crescimento e tomar decisões estratégicas mais assertivas.
 
 <!-- <img src="images/dashvendas.png?raw=true"/> -->
-<iframe width="408" height="306" src="https://lookerstudio.google.com/embed/reporting/42b6179e-7ae0-4c43-8193-788726f7534f/page/tUvED" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="666" height="500" src="https://lookerstudio.google.com/embed/reporting/42b6179e-7ae0-4c43-8193-788726f7534f/page/tUvED" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 [![](https://img.shields.io/badge/Google%20Analytics-white?logo=google%20analytics)](#) [![](https://img.shields.io/badge/Looker-white?logo=Looker)](#) 
 
